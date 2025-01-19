@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Build files (hanya untuk React build)
+build/
+
+# Logs
+*.log
+
+# Environment variables (jangan upload jika mengandung data sensitif)
+.env
+
+# OS/IDE-specific files
+.DS_Store
+*.swp
+.vscode/

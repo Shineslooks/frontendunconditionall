@@ -1,0 +1,39 @@
+# Node modules folder
+node_modules
+
+# Build output directory
+build
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Git-related files
+.git
+.gitignore
+
+# Editor-related files
+.vscode
+.idea
+
+# Temporary files
+tmp
+temp
+*.swp
+*.lock
+*.bak
+
+# Testing coverage
+coverage
+
+# Other unnecessary files for Docker
+docker-compose.override.yml
